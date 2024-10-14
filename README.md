@@ -52,7 +52,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=caiofmbarbosa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<!--   /*<img src="https://streak-stats.demolab.com?user=caiofmbarbosa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />*/ -->
+  <img src="https://streak-stats.demolab.com?user=caiofmbarbosa&theme=dark&exclude_days=Sun%2CSat" height="220" alt="GitHub Streak" />
 </div>
 
 ###
