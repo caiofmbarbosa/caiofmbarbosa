@@ -29,7 +29,7 @@ Currently, I work at Dataprev, where I contribute to the development of robust s
 
 In my spare time, I enjoy working on personal projects that integrate software and hardware, using Arduinos, ESPs, and embedded systems to create innovative solutions.
 
-Feel free to explore my repositories and get in touch—I'm always open to collaborating on new projects or exchanging ideas! 🚀</p>
+Feel free to explore my repositories and get in touch. I'm always open to collaborating on new projects or exchanging ideas! 🚀</p>
 
 ###
 
