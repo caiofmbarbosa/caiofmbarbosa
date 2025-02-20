@@ -21,7 +21,15 @@
 
 ###
 
-<p align="left">Hello, I'm Caio! 👋<br><br>I'm a front-end developer passionate about creating modern and responsive web interfaces. I use technologies like React, Bootstrap, JavaScript, and TypeScript to turn ideas into efficient digital experiences.<br><br>Currently, I'm a Telecommunications Engineering student at UFRN, where I'm deepening my knowledge in communication systems and emerging technologies. In my spare time, I love working on personal projects involving Arduinos, ESPs, and other hardware devices, combining software and hardware to create innovative solutions.<br><br>Feel free to explore my repositories and get in touch. I'm always open to collaborating on new projects or simply exchanging ideas! 🚀</p>
+<p align="left">Hello, I'm Caio! 👋
+
+I'm a Full-Stack Developer passionate about building modern, scalable, and secure digital solutions. I specialize in React, TypeScript, JavaScript, Bootstrap, and Node.js, developing efficient and responsive web applications.
+
+Currently, I work at Dataprev, where I contribute to the development of robust systems, prioritizing security, performance, and user experience. In addition, I'm pursuing a degree in Telecommunications Engineering at UFRN, expanding my knowledge in communication systems and emerging technologies.
+
+In my spare time, I enjoy working on personal projects that integrate software and hardware, using Arduinos, ESPs, and embedded systems to create innovative solutions.
+
+Feel free to explore my repositories and get in touch—I'm always open to collaborating on new projects or exchanging ideas! 🚀</p>
 
 ###
 
@@ -43,6 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
